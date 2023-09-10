@@ -1,6 +1,7 @@
 # keys-shortcut
 
 alt + shift + downward key = same thing pull downward many times
+.container  =>       pura div ke sath container aa jayega
 
 Continuous cursors: Shift + Alt + Mouse vertical drag.    for choose multiple line for writing  ek sath
 
