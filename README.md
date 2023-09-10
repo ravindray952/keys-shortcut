@@ -1,4 +1,5 @@
 # keys-shortcut
+.container>.box*8  (8 boxes with div)
 
 alt + shift + downward key = same thing pull downward many times
 .container  =>       pura div ke sath container aa jayega
