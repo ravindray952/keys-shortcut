@@ -1,5 +1,18 @@
 # keys-shortcut
 .container>.box*8  (8 boxes with div)
+h2#score    =>   <h2 id="score"></h2>
+button#StartNewsGame  =>   <button id="startNewGame"></button>  
+grid>.square#$*9    =>      <grid>
+            <div class="square" id="1"></div>
+            <div class="square" id="2"></div>
+            <div class="square" id="3"></div>
+            <div class="square" id="4"></div>
+            <div class="square" id="5"></div>
+            <div class="square" id="6"></div>
+            <div class="square" id="7"></div>
+            <div class="square" id="8"></div>
+            <div class="square" id="9"></div>
+        </grid>
 
 alt + shift + downward key = same thing pull downward many times
 .container  =>       pura div ke sath container aa jayega
