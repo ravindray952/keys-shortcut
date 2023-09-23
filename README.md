@@ -4,6 +4,7 @@ h2#score    =>   <h2 id="score"></h2>
 button#StartNewsGame  =>   <button id="startNewGame"></button>  
 input#userName    =>      <input type="text" id="userName">
 grid>.square#$*9    =>      <grid>
+ button#showDetails  =>  <button id="showDetails"></button>
             <div class="square" id="1"></div>
             <div class="square" id="2"></div>
             <div class="square" id="3"></div>
